@@ -20,9 +20,10 @@ I make things — and sometimes break things. I like learning about things. I li
 
 ### Public repositories
 ---
-| Name         | Description                            | Ready   |
-|--------------|----------------------------------------|---------|
-| Safeheap     | C memory protection library            | No      |
+| Name                                                    | Description                            | Ready   |
+|---------------------------------------------------------|----------------------------------------|---------|
+| ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      |
+| ![Helpviewer](https://github.com/lumiwyou/helpviewer)   | Web app for reading helpviewer files   | Kinda   |
 
 ### Languages
 I am proficient in various programming and markup languages.
