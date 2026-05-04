@@ -21,20 +21,23 @@ I make things — and sometimes break things. I like learning about things. I li
 ---
 | Name                                                    | Description                            | Ready   |
 |---------------------------------------------------------|----------------------------------------|---------|
-| ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      |
-| ![Helpviewer](https://github.com/lumiwyou/helpviewer)   | Web app for reading helpviewer files   | Kinda   |
+| <img src="https://github.com/lumiwyou/safeheap/blob/main/logo.png?raw=true" height="auto" width="40%"> ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      |
+| <img src="https://github.com/lumiwyou/helpviewer/blob/v1-final/logo.png?raw=true" height="auto" width="40%"> ![Helpviewer](https://github.com/lumiwyou/helpviewer)   | Web app for reading helpviewer files   | Kinda   |
 
 ### Languages
 I am proficient in various programming and markup languages.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,python,js,html,css,bash,net,nodejs)](https://skillicons.dev)
----
 
+[![My Skills](https://skillicons.dev/icons?i=c,cs,python,js,html,css,bash,net,nodejs,linux,windows,apple,docker,mysql,sqlite,bootstrap,photoshop,xd,postman,git)](https://skillicons.dev)
+---
 
 #### Design
 - HTML
 - CSS
 - Bootstrap
+- Adobe Photoshop
+- Adobe Prototype XD
+- Affinity Design
 
 #### Programming
 - C
@@ -45,3 +48,24 @@ I am proficient in various programming and markup languages.
 #### Frameworks
 - NodeJS
 - .NET
+
+#### Databases
+- MySQL
+- Sqlite
+
+#### Deployment
+- Docker
+
+#### Networking
+- Wireshark
+- Postman
+
+#### SRE
+- Ghidra
+- Binary Ninja
+- IDA
+
+#### Systems
+- Linux
+- Windows
+- Mac
