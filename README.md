@@ -12,7 +12,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 ![badge](https://img.shields.io/badge/Location-Sweden/Sverige-lightyellow)
 
 > [!NOTE]
-> This is a new account since I was locked out of mine.
+> This is a new account since I was locked out of my old one.
 
 ## What do I do?
 I make things — and sometimes break things. I like learning about things. I like to take them apart and study them on a low-level.
