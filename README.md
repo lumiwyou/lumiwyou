@@ -19,6 +19,7 @@ I make things — and sometimes break things. I like learning about things. I li
 
 ### Projects
 ---
+Here are some of my projects that I liked.
 | Name                                                    | Description                            | Ready   | Date  |
 |---------------------------------------------------------|----------------------------------------|---------|-------|
 | <img src="https://github.com/lumiwyou/safeheap/blob/main/logo.png?raw=true" height="auto" width="40%"> ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      | 2024-<continues> |
