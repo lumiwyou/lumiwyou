@@ -17,7 +17,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 ## What do I do?
 I make things — and sometimes break things. I like learning about things. I like to take them apart and study them on a low-level.
 
-### Public repositories
+### Projects
 ---
 | Name                                                    | Description                            | Ready   | Date  |
 |---------------------------------------------------------|----------------------------------------|---------|-------|
