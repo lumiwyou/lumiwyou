@@ -16,6 +16,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 🔐 Enthusiastic about cybersecurity, kernel internals, networking, homelabbing and more.<br>
 📜 Currently working to get certified in ISC2 CC.<br>
 📔 Learning ASP.NET and CSS Bootstrap.<br>
+💪 Started doing Hackerrank as well! :3
 
 > [!NOTE]
 > This is a new account since I was locked out of my old one.
