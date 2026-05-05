@@ -15,7 +15,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 🎨 Enjoy doing digital design using Affinity Design.<br>
 🔐 Enthusiastic about cybersecurity, kernel internals, networking, homelabbing and more.<br>
 📜 Currently working to get certified in ISC2 CC.<br>
-📔 Learning ASP.NET.<br>
+📔 Learning ASP.NET and CSS Bootstrap.<br>
 
 > [!NOTE]
 > This is a new account since I was locked out of my old one.
@@ -38,7 +38,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 |                     |        |
 |---------------------|--------|
 | HTML/CSS            | ★☆☆    |
-| Bootstrap           | ★☆☆    |
+| Bootstrap           | ☆☆☆    |
 | Adobe Prototype XD  | ★☆☆    |
 
 ### Digital art
