@@ -9,7 +9,7 @@
 # Lumi Hyväri
 The name is Lumi and I like borgir and programming. I also enjoy various niche IT-security fields such as reverse engineering.
 
-💻 Competent primarily in C/C++, Python and C#.<br>
+💻 Competent primarily in C/C++, Javascript, Python and C#.<br>
 🪙 Able to develop website applications using HTML/CSS, JS, and NodeJS.<br>
 🐧 More than familiar with Linux systems.<br>
 🎨 Enjoy doing digital design using Affinity Design.<br>
