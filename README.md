@@ -28,8 +28,9 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 
 | Name                                                    | Description                            | Ready   | Date  |
 |---------------------------------------------------------|----------------------------------------|---------|-------|
-| <img src="https://github.com/lumiwyou/safeheap/blob/main/logo.png?raw=true" height="auto" width="40%"> ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      | 2024-<continues> |
-| <img src="https://github.com/lumiwyou/helpviewer-old/blob/v1-final/logo.png?raw=true" height="auto" width="40%"> ![Helpviewer](https://github.com/lumiwyou/helpviewer)   | Web app for reading helpviewer files   | Kinda   | 2026 |
+| <img src="https://raw.githubusercontent.com/lumiwyou/mediaflix/main/mf-logo-dark.png" height="auto" width="40%"> ![Mediaflix](https://github.com/lumiwyou/mediaflix)   | Media streaming service   | No   | 2026- |
+| <img src="https://raw.githubusercontent.com/lumiwyou/safeheap/main/logo.png" height="auto" width="40%"> ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      | 2024-<continues> |
+| <img src="https://raw.githubusercontent.com/lumiwyou/helpviewer-old/v1-final/logo.png" height="auto" width="40%"> ![Helpviewer](https://github.com/lumiwyou/helpviewer)   | Web app for reading helpviewer files   | Kinda   | 2026 |
 | <img src="aivi-old-project.png" height="auto" width="40%"> AIVI   | AI chatbot using a random forest algorithm and corpuses   | <No>   | 2020-2022 |
 
 ### Competencies
