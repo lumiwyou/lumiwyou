@@ -55,7 +55,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 #### Programming
 |                     |        |
 |---------------------|--------|
-| C/C++               | ★★☆    |
+| C/C++               | ★★★    |
 | C#                  | ★★★    |
 | Python              | ★★★    |
 | Javascript          | ★★☆    |
@@ -64,8 +64,8 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 |                     |        |
 |---------------------|--------|
 | .NET                | ★★☆    |
-| NodeJS              | ★★★    |
-| Express             | ★★☆    |
+| NodeJS              | ★★☆    |
+| Express             | ★☆☆    |
 
 #### Databases
 Capable of writing SQL scripts, creating databases, normalizing, and deploying them.
