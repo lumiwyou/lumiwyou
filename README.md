@@ -23,6 +23,9 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 
 ### Projects
 ---
+> [!NOTE]
+> I am in the process of revamping my old projects to enhance and implement features, change tech stacks, etc. to make them the best version they could be.
+
 | Name                                                    | Description                            | Ready   | Date  |
 |---------------------------------------------------------|----------------------------------------|---------|-------|
 | <img src="https://github.com/lumiwyou/safeheap/blob/main/logo.png?raw=true" height="auto" width="40%"> ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      | 2024-<continues> |
