@@ -1,7 +1,7 @@
 ![card](card.png)
 
-![badge](https://img.shields.io/badge/Programming-C_|_CS_|_JavaScript_|_Python_|_Bash-lightblue)
-![badge](https://img.shields.io/badge/Design-HTML/CSS_|_bootstrap-lightgreen)
+![badge](https://img.shields.io/badge/Skills-C/C++_|_C%23_|_JavaScript_|_Python-lightblue)
+![badge](https://img.shields.io/badge/Design-HTML/CSS-lightgreen)
 ![badge](https://img.shields.io/badge/OS-Linux_|_MacOS-blue)
 ![badge](https://img.shields.io/badge/Food-Borgir-orange)
 ![badge](https://img.shields.io/badge/Location-Sweden/Sverige-lightyellow)
