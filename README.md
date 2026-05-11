@@ -1,5 +1,3 @@
-![card](card.png)
-
 ![badge](https://img.shields.io/badge/Skills-C/C++_|_C%23_|_JavaScript_|_Python-lightblue)
 ![badge](https://img.shields.io/badge/Design-HTML/CSS-lightgreen)
 ![badge](https://img.shields.io/badge/OS-Linux_|_MacOS-blue)
