@@ -26,7 +26,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 
 | Name                                                    | Description                            | Ready   | Date  | Tech |
 |---------------------------------------------------------|----------------------------------------|---------|-------|------|
-| <img src="https://raw.githubusercontent.com/lumiwyou/homecenter/refs/heads/main/logo.png" height="auto" width="40%"> ![Homecenter](https://github.com/lumiwyou/homecenter)   | Home network and virtual datacenter   | Yes   | 2024-[2026]- | Proxmox, Wazuh, Suricata, Gitea, ... |
+| <img src="https://raw.githubusercontent.com/lumiwyou/homecenter/refs/heads/main/logo.png" height="auto" width="40%"> ![Homecenter](https://github.com/lumiwyou/homecenter)   | Home network and mini-datacenter   | Yes   | 2024-[2026]- | Proxmox, Wazuh, Suricata, Gitea, ... |
 | <img src="https://raw.githubusercontent.com/lumiwyou/mediaflix/main/docs/assets/logo.png" height="auto" width="40%"> ![Mediaflix](https://github.com/lumiwyou/mediaflix)   | Media streaming service   | No   | 2026- | NodeJS, Typescript |
 | <img src="https://raw.githubusercontent.com/lumiwyou/safeheap/main/logo.png" height="auto" width="40%"> ![Safeheap](https://github.com/lumiwyou/safeheap)       | C memory protection library            | No      | 2024-<continues> | C |
 | <img src="https://raw.githubusercontent.com/lumiwyou/helpviewer-old/v1-final/logo.png" height="auto" width="40%"> ![Helpviewer](https://github.com/lumiwyou/helpviewer-old)   | Web app for reading helpviewer files   | Kinda   | 2026 | NodeJS |
