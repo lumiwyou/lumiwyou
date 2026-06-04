@@ -22,7 +22,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 ### Projects
 ---
 > [!NOTE]
-> I am in the process of revamping my old projects to enhance and implement features, change tech stacks, etc. to make them the best version they could be.
+> I am in the process of revamping my old projects to enhance and implement features, change tech stacks, etc. to make them the best version they could be. Old projects are being migrated to this repository.
 
 | Name                                                    | Description                            | Ready   | Date  | Tech |
 |---------------------------------------------------------|----------------------------------------|---------|-------|------|
