@@ -7,15 +7,6 @@
 # Lumi Hyväri
 The name is Lumi and I like borgir and programming. I also enjoy various niche IT-security fields such as reverse engineering.
 
-💻 Competent primarily in C/C++, Javascript, Python and C#.<br>
-🪙 Able to develop website applications using HTML/CSS, JS, and NodeJS.<br>
-🐧 More than familiar with Linux systems.<br>
-🎨 Enjoy doing digital design using Affinity Design.<br>
-🔐 Enthusiastic about cybersecurity, kernel internals, networking, homelabbing and more.<br>
-📜 Currently working to get certified in ISC2 CC.<br>
-📔 Learning ASP.NET and CSS Bootstrap.<br>
-💪 Started doing Hackerrank as well! :3
-
 > [!NOTE]
 > This is a new account since I was locked out of my old one.
 
