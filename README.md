@@ -1,19 +1,13 @@
-![badge](https://img.shields.io/badge/Skills-C/C++_|_C%23_|_JavaScript_|_Python-lightblue)
+![badge](https://img.shields.io/badge/Code-C/C++_|_C%23_|_JavaScript_|_Python-lightblue)
 ![badge](https://img.shields.io/badge/Design-HTML/CSS-lightgreen)
 ![badge](https://img.shields.io/badge/OS-Linux_|_MacOS-blue)
-![badge](https://img.shields.io/badge/Food-Borgir-orange)
+![badge](https://img.shields.io/badge/Food-Sushi-red)
 ![badge](https://img.shields.io/badge/Location-Sweden/Sverige-lightyellow)
 
-# Lumi Hyväri
-The name is Lumi and I like borgir and programming. I also enjoy various niche IT-security fields such as reverse engineering.
-
-> [!NOTE]
-> This is a new account since I was locked out of my old one.
+# Hello!
+My name is Lumi and I am a fullstack developer. In my spare time I hack away at niche projects, some of which you may find here. I reside in Stockholm and study @ Chas Academy.
 
 ### Projects
----
-> [!NOTE]
-> I am in the process of revamping my old projects to enhance and implement features, change tech stacks, etc. to make them the best version they could be. Old projects are being migrated to this repository.
 
 | Name                                                    | Description                            | Ready   | Date  | Tech |
 |---------------------------------------------------------|----------------------------------------|---------|-------|------|
@@ -33,7 +27,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 |                     |        |
 |---------------------|--------|
 | HTML/CSS            | ★☆☆    |
-| Bootstrap           | ☆☆☆    |
+| Bootstrap           | ★☆☆    |
 | Adobe Prototype XD  | ★☆☆    |
 
 ### Digital art
@@ -47,7 +41,7 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 |                     |        |
 |---------------------|--------|
 | C/C++               | ★★★    |
-| C#                  | ★★★    |
+| C#                  | ★★☆    |
 | Python              | ★★★    |
 | Javascript          | ★★☆    |
 
@@ -57,19 +51,3 @@ The name is Lumi and I like borgir and programming. I also enjoy various niche I
 | .NET                | ★★☆    |
 | NodeJS              | ★★☆    |
 | Express             | ★☆☆    |
-
-#### Databases
-Capable of writing SQL scripts, creating databases, normalizing, and deploying them.
-
-#### Deployment
-Familiar with Docker containers and am currently learning how to deploy Proxmox VMs and planning to learn Kubernetes.
-
-#### Networking
-Knowledgeable about network stacks, protocols, network structures and devices, and how to use tools such as Wireshark and Postman for troubleshooting and API-testing.
-
-#### SRE
-Dabbles in the art of software reverse engineering using tools such as Ghidra, Binary Ninja, and IDA.
-
-#### Systems
-Uses Linux as a daily driver and is more than familiar with setting up, configuring, and troubleshooting linux systems.
-Also a kernels Enthusiast.
