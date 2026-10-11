@@ -19,33 +19,3 @@ My name is Lumi and I am a fullstack developer. In my spare time I hack away at 
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,python,js,html,css,bash,net,nodejs,linux,windows,apple,docker,mysql,sqlite,bootstrap,photoshop,xd,postman,git)](https://skillicons.dev)
----
-
-### Web Design
-|                     |        |
-|---------------------|--------|
-| HTML/CSS            | ★☆☆    |
-| Bootstrap           | ★☆☆    |
-| Adobe Prototype XD  | ★☆☆    |
-
-### Digital art
-|                     |        |
-|---------------------|--------|
-| Adobe Photoshop     | ★★☆    |
-| Affinity Design     | ★★☆    |
-| GIMP                | ★★☆    |
-
-#### Programming
-|                     |        |
-|---------------------|--------|
-| C/C++               | ★★★    |
-| C#                  | ★★☆    |
-| Python              | ★★★    |
-| Javascript          | ★★☆    |
-
-#### Frameworks
-|                     |        |
-|---------------------|--------|
-| .NET                | ★★☆    |
-| NodeJS              | ★★☆    |
-| Express             | ★☆☆    |
