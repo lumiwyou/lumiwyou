@@ -11,7 +11,7 @@ My name is Lumi and I am a fullstack developer. In my spare time I hack away at 
 
 | Name                                                     | Description                            | Ready   | Date  | Tech |
 |----------------------------------------------------------|----------------------------------------|---------|-------|------|
-|![Homecenter](https://github.com/lumiwyou/homecenter)     | Home network and mini-datacenter   | Yes   | 2024-[2026]- | Proxmox, Wazuh, Suricata, Gitea, ... |
+|![Homecenter](https://github.com/lumiwyou/homecenter)     | Home network and mini-datacenter   | Yes   | 2024-2026 | Proxmox, Wazuh, Suricata, Gitea, ... |
 |![Safeheap](https://github.com/lumiwyou/safeheap)         | C memory protection library            | No      | 2024-<continues> | C |
 |![Helpviewer](https://github.com/lumiwyou/helpviewer-old) | Web app for reading helpviewer files   | Kinda   | 2026 | NodeJS |
 
