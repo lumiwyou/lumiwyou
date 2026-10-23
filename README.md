@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/Food-Sushi-red)
 ![badge](https://img.shields.io/badge/Location-Sweden/Sverige-lightyellow)
 
-# Hello!
+# ✨ Hello!
 My name is Lumi and I am a fullstack developer. In my spare time I hack away at niche projects, some of which you may find here. I reside in Stockholm and study @ Chas Academy.
 
 ### Projects
